@@ -31,7 +31,7 @@ Results.R
 
 Performs feature selection using Recursive Feature Elimination (RFE) with a Random Forest model.
 
-Trains a regression model to predict a player's scoring output (points).
+Trains a Random Forest model to predict a player's scoring output (points).
 
 Accepts a player’s average performance (last 10 games) as input and outputs the predicted points.
 

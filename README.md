@@ -4,7 +4,9 @@
 Original.R
 
 Pulls complete historical data from the NBA API for the 2024 season.
+
 Gathers both advanced and traditional stats for home and away teams.
+
 Cleans and merges data into a unified dataset: nba_stats_final.
 Outputs a CSV file with all player and team-level features.
 Also includes a utility to compute average performance over last 10 games for any player.

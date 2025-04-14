@@ -35,4 +35,17 @@ Trains a regression model to predict a player's scoring output (points).
 
 Accepts a player’s average performance (last 10 games) as input and outputs the predicted points.
 
-Includes model evaluation (RMSE) and feature importance visualization.
+Includes model evaluation (RMSE) and feature importance visualization.    
+
+
+
+Technologies Used
+
+
+R (caret, dplyr, randomForest)
+
+NBA API (via custom functions)
+
+Machine Learning (Random Forest, RFE)
+
+Data Wrangling & Joining
